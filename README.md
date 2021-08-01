@@ -1,6 +1,9 @@
 ansible-role-frp
 ================
 
+[![Ansible Role: bit_kitchen.frpc](https://img.shields.io/badge/role-kitos9112.frp-blue)](https://galaxy.ansible.com/kitos9112/ansible_role_frp)
+[![Build Status: bit-kitchen/frpc](https://travis-ci.org/bit-kitchen/frpc.svg?branch=master)](https://travis-ci.org/bit-kitchen/frpc)
+
 Install and configure [frp](https://github.com/fatedier/frp) client or server on Linux.
 
     ansible-galaxy install msoutullo.frp

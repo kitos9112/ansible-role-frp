@@ -3,7 +3,7 @@
 - hosts: localhost
   gather_facts: yes
   roles:
-    - name: ../../frpc
+    - name: ../../ansible-role-frp
       #frpc_version: ""
       #frpc_config_name: ''
 
